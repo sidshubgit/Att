@@ -1,0 +1,5 @@
+{
+  "name": "Attendance Sandbox with Gemini Chat",
+  "description": "A web application that simulates student attendance based on a mock campus WiFi connection. It also features an integrated Gemini-powered chatbot with a special 'Thinking Mode' for complex queries.",
+  "requestFramePermissions": []
+}
